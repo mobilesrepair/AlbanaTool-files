@@ -1,0 +1,16 @@
+{
+  "official_files": {}
+}{
+  "version": 1,
+  "last_update": "2025-01-01",
+  "brands": {
+    "OPPO": "https://example.com/oppo",
+    "REALME": "https://example.com/realme",
+    "VIVO": "https://example.com/vivo",
+    "INFINIX": "https://example.com/infinix",
+    "XIAOMI": "https://example.com/xiaomi",
+    "SAMSUNG": "https://example.com/samsung",
+    "HONOR": "https://example.com/honor",
+    "OTHERS": "https://example.com/others"
+  }
+}
