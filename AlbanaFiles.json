@@ -1,34 +1,14 @@
 {
-  "version": 3.0.0,
-  "last_update": "2025-01-10",
+  "version": "v1.0.0",
+  "last_update": "2025-12-02",
 
   "brands": {
-    "OPPO": {
-      "A17": {
-        "firmware": [
-          { "name": "OFP FULL", "url": "https://example.com/oppo/a17/ofp" },
-          { "name": "DUMPS", "url": "https://example.com/oppo/a17/raw" }
-        ]
-      },
-      "A57": {
-        "firmware": [
-          { "name": "Firmware A57", "url": "https://example.com/oppo/a57/fw" }
-        ]
-      }
-    },
-
-    "REALME": {
-      "C35": {
-        "firmware": [
-          { "name": "C35 DUMP RAW", "url": "https://example.com/realme/C35/raw" }
-        ]
-      }
-    },
-
+    "OPPO": {},
+    "REALME": {},
     "VIVO": {},
     "INFINIX": {},
-    "SAMSUNG": {},
     "XIAOMI": {},
+    "SAMSUNG": {},
     "HONOR": {},
     "OTHERS": {}
   }
