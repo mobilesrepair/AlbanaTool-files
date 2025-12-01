@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 3.0.0,
   "last_update": "2025-01-10",
 
   "brands": {
@@ -7,7 +7,7 @@
       "A17": {
         "firmware": [
           { "name": "OFP FULL", "url": "https://example.com/oppo/a17/ofp" },
-          { "name": "DUMP RAW", "url": "https://example.com/oppo/a17/raw" }
+          { "name": "DUMPS", "url": "https://example.com/oppo/a17/raw" }
         ]
       },
       "A57": {
