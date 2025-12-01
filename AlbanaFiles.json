@@ -1,14 +1,35 @@
 {
-  "version": 1,
-  "last_update": "2025-01-01",
+  "version": 3,
+  "last_update": "2025-01-10",
+
   "brands": {
-    "OPPO": "https://example.com/oppo",
-    "REALME": "https://example.com/realme",
-    "VIVO": "https://example.com/vivo",
-    "INFINIX": "https://example.com/infinix",
-    "XIAOMI": "https://example.com/xiaomi",
-    "SAMSUNG": "https://example.com/samsung",
-    "HONOR": "https://example.com/honor",
-    "OTHERS": "https://example.com/others"
+    "OPPO": {
+      "A17": {
+        "firmware": [
+          { "name": "OFP FULL", "url": "https://example.com/oppo/a17/ofp" },
+          { "name": "DUMP RAW", "url": "https://example.com/oppo/a17/raw" }
+        ]
+      },
+      "A57": {
+        "firmware": [
+          { "name": "Firmware A57", "url": "https://example.com/oppo/a57/fw" }
+        ]
+      }
+    },
+
+    "REALME": {
+      "C35": {
+        "firmware": [
+          { "name": "C35 DUMP RAW", "url": "https://example.com/realme/C35/raw" }
+        ]
+      }
+    },
+
+    "VIVO": {},
+    "INFINIX": {},
+    "SAMSUNG": {},
+    "XIAOMI": {},
+    "HONOR": {},
+    "OTHERS": {}
   }
 }
