@@ -1,8 +1,27 @@
 {
-  "version": "v1.0.1",
+  "version": "1.0.0",
+
   "brands": {
-    "OPPO": "https://mega.nz/folder/FU1HXRhZ#MmRk1zNjW7vi4n9lerlXSg",
-    "REALME": "https://mega.nz/.....",
-    "VIVO": "https://mega.nz/....."
+    "OPPO": {
+      "url": "https://mega.nz/folder/xxxx#xxxx"
+    },
+    "REALME": {
+      "url": "https://mega.nz/folder/yyyy#yyyy"
+    },
+    "VIVO": {
+      "url": "https://mega.nz/folder/zzzz#zzzz"
+    },
+    "INFINIX": {
+      "url": "https://mega.nz/folder/aaaa#aaaa"
+    },
+    "TECNO": {
+      "url": "https://mega.nz/folder/bbbb#bbbb"
+    },
+    "XIAOMI": {
+      "url": "https://mega.nz/folder/cccc#cccc"
+    },
+    "SAMSUNG": {
+      "url": "https://mega.nz/folder/dddd#dddd"
+    }
   }
 }
